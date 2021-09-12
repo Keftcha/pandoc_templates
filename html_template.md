@@ -5,6 +5,7 @@
 # Meta information about the author
 #author-meta: Author
 
+pagetitle: Title of the web page
 title: Document title
 subtitle: Document subtitle
 subject: Document subject
