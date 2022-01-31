@@ -9,7 +9,7 @@ pagetitle: Title of the web page
 title: Document title
 subtitle: Document subtitle
 subject: Document subject
-author: 
+author:
   - Author
 #date: today
 #keywords: [keywords, of, document]

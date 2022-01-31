@@ -24,7 +24,7 @@
 title: Document title
 subtitle: Document subtitle
 subject: Document subject
-author: 
+author:
   - Author
 date: \today
 #keywords: [keywords, of, document]
@@ -33,7 +33,7 @@ date: \today
 #  Text include before the table of content
 
 # Add a table of content
-#toc: yes 
+#toc: yes
 # Custom name for the table of content
 #toc-title: TOC custom name
 # Automatically number sections (use `{-}` at the end of a section to unnumbered it)
